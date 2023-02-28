@@ -4,6 +4,8 @@
   <a href="https://github.com/MuriloJLima"><img alt="Murilo Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloJLima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
   <br/>
   <b>Nota:</b> As principais tecnologias são apenas uma métrica das linguagens em que consistem meus códigos públicos e não refletem a experiência ou o nível de habilidade.
+  
+##
 
 ### Principais ferramentas:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
