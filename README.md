@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+Murilo+Lima;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/MuriloJLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloJLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em", width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloJLima&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <a href="https://github.com/MuriloJLima"><img alt="Murilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloJLima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MuriloJLima"><img alt="Murilo Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloJLima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <br/>
+  <b>Nota:</b> As principais tecnologias são apenas uma métrica das linguagens em que consistem meus códigos públicos e não refletem a experiência ou o nível de habilidade.
 
 ### Principais ferramentas:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
